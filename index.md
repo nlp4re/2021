@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 
 layout: default
-title: NLP4RE Home
+title: NLP4RE'21 Home
 ---
 
 ## Workshop Overview

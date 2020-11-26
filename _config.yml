@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: NLP4RE 2021
+title: NLP4RE'21
 email: basak.aydemir@boun.edu.tr
 description: Workshop on Natural Language Processing for Requirements Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
