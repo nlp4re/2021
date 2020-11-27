@@ -9,7 +9,7 @@ title: NLP4RE Organization
 &nbsp;
 * Sallam Abualhaija, University of Luxembourg, Luxembourg
 * Fatma Başak Aydemir, Boğaziçi University, Turkey
-* Alessio Ferrari, CNR-IST, Italy
+* Alessio Ferrari, CNR-ISTI, Italy
 * Jin Guo, McGill University, Canada
 
 &nbsp;
