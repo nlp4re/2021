@@ -67,7 +67,7 @@ a:hover {
 }
 .jumbotron {
   background: linear-gradient(transparent, transparent, #3a94f4),
-    url("../img/banner-transp.jpg") no-repeat center;
+    url("../assets/img/banner-transp.jpg") no-repeat center;
   background-size: 100% auto;
   -webkit-font-smoothing: antialiased;
   background-position: 30% 30%;
