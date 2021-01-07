@@ -15,9 +15,9 @@ Contributions
 
 The workshop will welcome contributions in the field of theory and application of NLP technologies in RE. We also encourage contributions that highlight challenges faced by industrial practitioners when dealing with requirements expressed in NL, and faced by academics in technology transfer studies.
 
-We are interested in Tool Papers (see the call for papers here), in which the authors provide a brief description of an NLP tool for RE, and a plan for a tool demo at the workshop.
+We are interested in Tool Papers (see the call for papers [here](https://nlp4re.github.io/2021/cfp.html)), in which the authors provide a brief description of an NLP tool for RE, and a plan for a tool demo at the workshop.
 
-We are also interested in Report Papers (see the call for papers here), in which the authors provide an overview on the current and past research of their teams. These contributions do not require novelty with respect to previous work, because the main goal of the workshop is to foster discussion and networking. A non-mandatory template for Report Papers can be dowloaded here.
+We are also interested in Report Papers, in which the authors provide an overview on the current and past research of their teams. These contributions do not require novelty with respect to previous work, because the main goal of the workshop is to foster discussion and networking. A non-mandatory template for Report Papers can be dowloaded here.
 
 Within the area of NLP for RE, the topics of interest of the workshop include but are not limited to:
 
