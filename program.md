@@ -12,7 +12,7 @@ layout: default
 
 Chair: Fatma Başak Aydemir
 
-**10:00 - 10:10 Welcome**
+**10:00 - 10:10** Welcome
 
 **10:10 - 10:40** [Continuous Rationale Identification in Issue Tracking and Version Control Systems]() _<ins>Anja Kleebaum</ins>, Barbara Paech, Jan Ole Johanssen and Bernd Bruegge_
 
