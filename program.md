@@ -36,7 +36,7 @@ Chair: Alessio Ferrari
 
 ### **13:15 - 13:40 Lunch Break**
 
-### **Session 2**
+### **Session 3**
 
 Chair: Sallam Abualhaija
 
@@ -50,7 +50,7 @@ Chair: Sallam Abualhaija
 
 ### **15:15 - 15:30 Break**
 
-### **Session 3**
+### **Session 4**
 
 Chair: Jin Guo
 
