@@ -14,27 +14,27 @@ Chair: Fabiano Dalpiaz
 
 **9:00 - 9:45 [Keynote by Vincenzo Gervasi](http://fmt.isti.cnr.it/nlp4re/index.php?id=keynotes): Requirements Philology**
 
-**9:45 - 10:05** [Determining Domain Specific Differences of Polysemic Words Using Context Information](http://fmt.isti.cnr.it/nlp4re/data/uploads/presentation-nlp4re-upload.pdf)  
+**9:45 - 10:05** [Determining Domain Specific Differences of Polysemic Words Using Context Information](http://fmt.isti.cnr.it/nlp4re/data/uploads/presentation-nlp4re-upload.pdf)
 _Daniel Töws and Leif Van Holland _
 
-**10:05 - 10.25** [Using Frame Embeddings to Identify Semantically Related Software Requirements](http://fmt.isti.cnr.it/nlp4re/data/uploads/Waad%20Alhoshan.pdf)  
+**10:05 - 10.25** [Using Frame Embeddings to Identify Semantically Related Software Requirements](http://fmt.isti.cnr.it/nlp4re/data/uploads/Waad%20Alhoshan.pdf)
 _Waad Alhoshan, Riza Batista-Navarro and Liping Zhao_
 
 **10:25 - 10:30 Posters & Tools Pitches** 
 
-[OpenReq-DD: A Requirements Dependency DetectionTool](http://fmt.isti.cnr.it/nlp4re/data/uploads/Poster-cristina.jpg) - _Tool   
+[OpenReq-DD: A Requirements Dependency DetectionTool](http://fmt.isti.cnr.it/nlp4re/data/uploads/Poster-cristina.jpg) - _Tool 
 Quim Motger, Ricard Borrull, Cristina Palomares and Jordi Marco_
 
-QuARS: A NLP Tool for Requirements Analysis - _Tool  
+QuARS: A NLP Tool for Requirements Analysis - _Tool
 Stefania Gnesi and Gianluca Trentanni _
 
-Detecting Inconsistencies of Natural Language Requirements in Satellite Ground Segment Domain -  _Poster  
+Detecting Inconsistencies of Natural Language Requirements in Satellite Ground Segment Domain -  _Poster
 Sercan Çevikol and Fatma Başak Aydemir_
 
-[Detection of Defective Requirements using rule-based scripts](http://fmt.isti.cnr.it/nlp4re/data/uploads/poster-for-detection-of-defective-requirements-using-rule-based-scripts.pdf) - _Poster  
+[Detection of Defective Requirements using rule-based scripts](http://fmt.isti.cnr.it/nlp4re/data/uploads/poster-for-detection-of-defective-requirements-using-rule-based-scripts.pdf) - _Poster
 Michael Dembach, Hussein Hasso, Hanna Geppert and Daniel Töws_
 
-Expert-sourcing Domain-specific Knowledge: The Case of Synonym Validation - _Poster  
+Expert-sourcing Domain-specific Knowledge: The Case of Synonym Validation - _Poster
 Michael Unterkalmsteiner and Andrew Yates_
 
 ### **10:30 - 11:00 Coffee Break and Posters & Tools Session**
@@ -43,16 +43,16 @@ Michael Unterkalmsteiner and Andrew Yates_
 
 Chair: Alessio Ferrari
 
-**11:00 - 11:20** [A Taxonomy for User Feedback Classifications](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re_taxonomy_classifiers-pdf_paper10.pdf)  
+**11:00 - 11:20** [A Taxonomy for User Feedback Classifications](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re_taxonomy_classifiers-pdf_paper10.pdf)
 _Rubens Santos, Eduard C. Groen and Karina Villela_
 
-**11:20 - 11:40** [From generic requirements to variability](http://fmt.isti.cnr.it/nlp4re/data/uploads/laura-semini.pdf)  
+**11:20 - 11:40** [From generic requirements to variability](http://fmt.isti.cnr.it/nlp4re/data/uploads/laura-semini.pdf)
 _Alessandro Fantechi, Stefania Gnesi and Laura Semini_
 
-**11:40 - 12.00** [An Overview of User Feedback Classification Approaches](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re_taxonomy_classifiers-pdf_paper11.pdf)  
+**11:40 - 12.00** [An Overview of User Feedback Classification Approaches](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re_taxonomy_classifiers-pdf_paper11.pdf)
 _Rubens Santos, Eduard C. Groen and Karina Villela_
 
-**12:00 - 12:20** [An NL-based Foundation for Increased Traceability, Transparency, and Speed in Continuous Development of Information Systems](http://fmt.isti.cnr.it/nlp4re/data/uploads/bertdebrok.pdf)**[ ](http://fmt.isti.cnr.it/nlp4re/data/uploads/bertdebrok.pdf)-** Guest Paper from Continuous Requirements Engineering (CRE) workshop  
+**12:00 - 12:20** [An NL-based Foundation for Increased Traceability, Transparency, and Speed in Continuous Development of Information Systems](http://fmt.isti.cnr.it/nlp4re/data/uploads/bertdebrok.pdf)**[ ](http://fmt.isti.cnr.it/nlp4re/data/uploads/bertdebrok.pdf)-** Guest Paper from Continuous Requirements Engineering (CRE) workshop
 _Bert de Brock_
 
 ### **12:20 - Lunch**
@@ -77,19 +77,19 @@ Chair: Sarah C. Gregory and Frank Houdek 
 
 Chair: Xavier Franch and Cristina Palomares
 
-**16:00 - 16:20** [Research on NLP for RE at Università della Svizzera italiana (USI): a Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/ablasi-slides-nlp4re.pdf)  
+**16:00 - 16:20** [Research on NLP for RE at Università della Svizzera italiana (USI): a Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/ablasi-slides-nlp4re.pdf)
 _Arianna Blasi, Mauro Pezzè, Alessandra Gorla and Michael D. Ernst_
 
-**16:20 - 16:40** [Natural Language Processing with Process Models (NLP4RE Report Paper)](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re-lucineia-2019.pdf)  
+**16:20 - 16:40** [Natural Language Processing with Process Models (NLP4RE Report Paper)](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re-lucineia-2019.pdf)
 _Jan Mendling, Henrik Leopold, Lucinéia Heloisa Thom and Han van der Aa_
 
-**16:40 - 17:00** [Supporting the Development of Cyber-Physical Systems with Natural Language Processing: A Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4cps.pdf)  
+**16:40 - 17:00** [Supporting the Development of Cyber-Physical Systems with Natural Language Processing: A Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4cps.pdf)
 _Andreas Vogelsang, Kerstin Hartig, Florian Pudlitz, Aaron Schlutter and Jonas Winkler_
 
-**17:00 - 17:20** [Research on NLP for RE at Utrecht University: a Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re-19-relab.pdf)  
+**17:00 - 17:20** [Research on NLP for RE at Utrecht University: a Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/nlp4re-19-relab.pdf)
 _Fabiano Dalpiaz and Sjaak Brinkkemper_
 
-**17:20 - 17:40** [Research on NLP for RE at the FBK-Software Engineering research line: a Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/19NLP4RE-REFSQ.pdf)  
+**17:20 - 17:40** [Research on NLP for RE at the FBK-Software Engineering research line: a Report](http://fmt.isti.cnr.it/nlp4re/data/uploads/19NLP4RE-REFSQ.pdf)
 _Fitsum Meshesha Kifetew, Anna Perini and Angelo Susi_
 
 **17:40 - 18:00 Discussion and Wrap-up**
