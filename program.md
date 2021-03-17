@@ -14,11 +14,11 @@ Chair: Fatma Başak Aydemir
 
 **10:00 - 10:10** Welcome
 
-**10:10 - 10:40** [Continuous Rationale Identification in Issue Tracking and Version Control Systems]() _<ins>Anja Kleebaum</ins>, Barbara Paech, Jan Ole Johanssen and Bernd Bruegge_
+**10:10 - 10:40** Continuous Rationale Identification in Issue Tracking and Version Control Systems _<ins>Anja Kleebaum</ins>, Barbara Paech, Jan Ole Johanssen and Bernd Bruegge_
 
-**10:40 - 11:10** [A Vision of Understanding the Users’ View on Software]() _<ins>Hendrik Schrieber, Michael Anders</ins>, Barbara Paech, and Kurt Schneider_
+**10:40 - 11:10** A Vision of Understanding the Users’ View on Software _<ins>Hendrik Schrieber, Michael Anders</ins>, Barbara Paech, and Kurt Schneider_
 
-**11:10 - 11:25** [An NLP-based Chatbot to Facilitate RE Activities: An Experience Paper on Human Resources Application]() _<ins>Pedram Khatamino</ins>, Mustafa Baris Camli, Bilgehan Oztekin, Umutcan Gozumoglu, Emre Tortumlu, and Huseyin Murat Gezer_
+**11:10 - 11:25** An NLP-based Chatbot to Facilitate RE Activities: An Experience Paper on Human Resources Application _<ins>Pedram Khatamino</ins>, Mustafa Baris Camli, Bilgehan Oztekin, Umutcan Gozumoglu, Emre Tortumlu, and Huseyin Murat Gezer_
 
 **11:25 - 11:30** Activity
 
@@ -28,11 +28,11 @@ Chair: Fatma Başak Aydemir
 
 Chair: Alessio Ferrari
 
-**11:45 - 12:15** [CiRA: A Tool for the Automatic Detection of Causal Relationships in Requirements Artifacts]() _Jannik Fischbach, <ins>Julian Frattini</ins>, and Andreas Vogelsang_
+**11:45 - 12:15** CiRA: A Tool for the Automatic Detection of Causal Relationships in Requirements Artifacts _Jannik Fischbach, <ins>Julian Frattini</ins>, and Andreas Vogelsang_
 
-**12:15 - 12:45** [Concept Extraction in Requirements Elicitation Session Recordings: Prototype and Experimentation]() _Tjerk Spijkman, Boris Winter, Sid Bansidhar, and Sjaak Brinkkemper_
+**12:15 - 12:45** Concept Extraction in Requirements Elicitation Session Recordings: Prototype and Experimentation _Tjerk Spijkman, Boris Winter, Sid Bansidhar, and Sjaak Brinkkemper_
 
-**12:45 - 13:15** [SRXCRM: Discovering Association Rules Between System Requirements and Product Specifications]() _<ins>Vasco Leitão</ins> and Ibéria Medeiros_
+**12:45 - 13:15** SRXCRM: Discovering Association Rules Between System Requirements and Product Specifications _<ins>Vasco Leitão</ins> and Ibéria Medeiros_
 
 ### **13:15 - 13:40 Lunch Break**
 
@@ -40,13 +40,13 @@ Chair: Alessio Ferrari
 
 Chair: Sallam Abualhaija
 
-**13:45 - 14:00** [Using Recurrent Neural Networks for Classification of Natural Language-based Non-functional Requirements]() _<ins>Rajesh Kumar Gnanasekaran</ins>, Suranjan Chakraborty, Josh Dehlinger, and Lin Deng_
+**13:45 - 14:00** Using Recurrent Neural Networks for Classification of Natural Language-based Non-functional Requirements _<ins>Rajesh Kumar Gnanasekaran</ins>, Suranjan Chakraborty, Josh Dehlinger, and Lin Deng_
 
-**14:00 - 14:30**  [Case study: How well can IBM’s "Requirements Quality Assistant" review automotive requirements?]() _<ins>Amalinda Post</ins> and Thomas Fuhr_
+**14:00 - 14:30**  Case study: How well can IBM’s "Requirements Quality Assistant" review automotive requirements? _<ins>Amalinda Post</ins> and Thomas Fuhr_
 
-**14:30 - 15:00**  [Semantic Frames for Classifying Temporal Requirements: An Exploratory Study]() _Aurek Chattopadhyay, <ins>Nan Niu</ins>, Zedong Peng, and Jianzhang Zhang_
+**14:30 - 15:00**  Semantic Frames for Classifying Temporal Requirements: An Exploratory Study _Aurek Chattopadhyay, <ins>Nan Niu</ins>, Zedong Peng, and Jianzhang Zhang_
 
-**15:00 - 15:15**  [From Legal Contracts to Formal Specifications: A Progress Report]() _<ins>Michele Soavi</ins>, Nicola Zeni, John Mylopoulos and Luisa Mich_
+**15:00 - 15:15**  From Legal Contracts to Formal Specifications: A Progress Report _<ins>Michele Soavi</ins>, Nicola Zeni, John Mylopoulos and Luisa Mich_
 
 ### **15:15 - 15:30 Break**
 
@@ -54,7 +54,7 @@ Chair: Sallam Abualhaija
 
 Chair: Jin Guo
 
-**15:30 - 16:30 [Keynote by Sarah Gregory](): Codeswitching, RE@Industry, and how NLP just might Save Us All!**
+**15:30 - 16:30 Keynote by Sarah Gregory: Codeswitching, RE@Industry, and how NLP just might Save Us All!**
 
 **16:30 - 16:35** Activity
 
