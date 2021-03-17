@@ -54,6 +54,8 @@ Chair: Sallam Abualhaija
 
 Chair: Jin Guo
 
-**15:30 - 16:30 [Keynote by Sarah Gregory](): **
-**16:30 - 16:35 ** Activity
-**16:35 - 17:00 ** Discussion and Wrap-up
+**15:30 - 16:30 [Keynote by Sarah Gregory](): Codeswitching, RE@Industry, and how NLP just might Save Us All!**
+
+**16:30 - 16:35** Activity
+
+**16:35 - 17:00** Discussion and Wrap-up
