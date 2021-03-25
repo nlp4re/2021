@@ -32,7 +32,7 @@ Chair: Alessio Ferrari
 
 **12:15 - 12:45** Concept Extraction in Requirements Elicitation Session Recordings: Prototype and Experimentation _Tjerk Spijkman, Boris Winter, Sid Bansidhar, and Sjaak Brinkkemper_
 
-**12:45 - 13:15** SRXCRM: Discovering Association Rules Between System Requirements and Product Specifications _<ins>Vasco Leitão</ins> and Ibéria Medeiros_
+**12:45 - 13:15** Semantic Frames for Classifying Temporal Requirements: An Exploratory Study _Aurek Chattopadhyay, <ins>Nan Niu</ins>, Zedong Peng, and Jianzhang Zhang_
 
 ### **13:15 - 13:40 Lunch Break**
 
@@ -44,7 +44,7 @@ Chair: Sallam Abualhaija
 
 **14:00 - 14:30**  Case study: How well can IBM’s "Requirements Quality Assistant" review automotive requirements? _<ins>Amalinda Post</ins> and Thomas Fuhr_
 
-**14:30 - 15:00**  Semantic Frames for Classifying Temporal Requirements: An Exploratory Study _Aurek Chattopadhyay, <ins>Nan Niu</ins>, Zedong Peng, and Jianzhang Zhang_
+**14:30 - 15:00**  SRXCRM: Discovering Association Rules Between System Requirements and Product Specifications _<ins>Vasco Leitão</ins> and Ibéria Medeiros_
 
 **15:00 - 15:15**  From Legal Contracts to Formal Specifications: A Progress Report _<ins>Michele Soavi</ins>, Nicola Zeni, John Mylopoulos and Luisa Mich_
 
