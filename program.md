@@ -28,13 +28,14 @@ Chair: Fatma Başak Aydemir
 
 Chair: Alessio Ferrari
 
-**11:45 - 12:15** CiRA: A Tool for the Automatic Detection of Causal Relationships in Requirements Artifacts _Jannik Fischbach, <ins>Julian Frattini</ins>, and Andreas Vogelsang_
+**11:45 - 12:00** CiRA: A Tool for the Automatic Detection of Causal Relationships in Requirements Artifacts _Jannik Fischbach, <ins>Julian Frattini</ins>, and Andreas Vogelsang_
 
-**12:15 - 12:45** Concept Extraction in Requirements Elicitation Session Recordings: Prototype and Experimentation _Tjerk Spijkman, Boris Winter, Sid Bansidhar, and Sjaak Brinkkemper_
+**12:00 - 12:30** Concept Extraction in Requirements Elicitation Session Recordings: Prototype and Experimentation _Tjerk Spijkman, Boris Winter, Sid Bansidhar, and Sjaak Brinkkemper_
 
-**12:45 - 13:15** Semantic Frames for Classifying Temporal Requirements: An Exploratory Study _Aurek Chattopadhyay, <ins>Nan Niu</ins>, Zedong Peng, and Jianzhang Zhang_
+**12:30 - 13:00** Semantic Frames for Classifying Temporal Requirements: An Exploratory Study _Aurek Chattopadhyay, <ins>Nan Niu</ins>, Zedong Peng, and Jianzhang Zhang_
 
-### **13:15 - 13:40 Lunch Break**
+
+### **13:00 - 13:45 Lunch Break**
 
 ### **Session 3**
 
